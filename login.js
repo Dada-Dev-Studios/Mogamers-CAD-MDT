@@ -1,6 +1,6 @@
 //javascript for working login script here!
 let user = document.getElementById("Username");
-
+let signed_in = false;
 console.log(user);
 
 if(user="1A-30"){
