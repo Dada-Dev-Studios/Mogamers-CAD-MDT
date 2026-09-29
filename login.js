@@ -6,7 +6,7 @@ console.log(user);
 function Login() {
 if(user.value=="1A-30"){
   if(Password.value=="3310"){
-window.location.href = "/home.html";
+window.location.href = "home.html";
     let signed_in = true;
   }
 } else {
