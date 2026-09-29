@@ -9,6 +9,6 @@ if(user="1A-30"){
 window.location.href = "/home.html";
   }
 } else {
-  document.write("Wrong Username or Password")
+
 }
 }
