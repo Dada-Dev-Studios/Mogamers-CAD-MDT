@@ -1,11 +1,11 @@
 //javascript for working login script here!
-let user = document.getElementById("Username");
+const user = document.getElementById("Username");
 let signed_in = false;
-let password = document.getElementById("Password");
+const Password = document.getElementById("Password");
 console.log(user);
-Login{
-if(user="1A-30"){
-  if(password="3310"){
+function Login() {
+if(user.value=="1A-30"){
+  if(Password.value=="3310"){
 window.location.href = "/home.html";
   }
 } else {
