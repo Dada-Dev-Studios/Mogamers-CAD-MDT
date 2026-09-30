@@ -4,7 +4,8 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| Beta    | ✔️                |
+| B.0.1   | ✔️                |
+| B.0.2   | ❌                |
 
 ## Reporting a Vulnerability
 
