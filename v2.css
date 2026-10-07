@@ -4,6 +4,18 @@ background-color: white;
 
 .header {
   padding: 60px;
-  text-align: center;
+  text-align: left;
   font-size: 30px;
+}
+ul li a.active {
+  background-color: lime;
+
+}
+
+.taskbar {
+
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
 }
