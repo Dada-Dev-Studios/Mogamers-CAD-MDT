@@ -13,6 +13,7 @@ ul li a.active {
 }
 
 .taskbar {
+  list-style-type: none;
   background-color: gray;
   position: fixed;
   bottom: 0;
