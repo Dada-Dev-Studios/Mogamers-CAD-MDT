@@ -2,11 +2,50 @@
 <head>
   <title>Mo's MDT/CAD</title>
     <link rel="stylesheet" href="v2.css">
+  <style>
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover:not(.active) {
+  background-color: #111111;
+}
+
+ul li a.active {
+  background-color: #04AA6D;
+}
+</style>
 </head>
-<div class="header">
-<h1>Welcome to Mogamers CAD & MDT</h1>
-<h2>Welcome</h2>
-  <button type="button" onclick="window.location.href='https://dada-dev-studios.github.io/Mogamers-CAD-MDT/home.html'">Home</button>  <button type="button" onclick="window.location.href='https://dada-dev-studios.github.io/Mogamers-CAD-MDT/crs.html'">Criminal Record Database</button>
-</div>
+</head>
+<ul>
+  <li><a href="#home" class="active">Home</a></li>
+  <li><a href="#crs">Criminal Record Database</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
 <html>This is the offical MDT/CAD for Pineville Oregon Roleplay. We offer a large variety of services for first responders, public works!</html>
 <script src="login.js"></script>
