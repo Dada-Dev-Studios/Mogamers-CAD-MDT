@@ -11,3 +11,11 @@ ul li a.active {
   background-color: lime;
 
 }
+
+.taskbar {
+
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
