@@ -4,6 +4,10 @@ background-color: white;
 
 .header {
   padding: 60px;
-  text-align: center;
+  text-align: left;
   font-size: 30px;
+}
+.active {
+
+
 }
