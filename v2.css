@@ -13,7 +13,7 @@ ul li a.active {
 }
 
 .taskbar {
-
+  background-color: gray;
   position: fixed;
   bottom: 0;
   width: 100%;
