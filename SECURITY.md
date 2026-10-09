@@ -3,10 +3,10 @@
 ## Supported Versions
 
 | Version | Supported          |
-| ------- | ------------------ |
+| ------- | -----------------  |
 | B.0.1   | ✔️                |
-| B.0.2   | ❌                |
+| 0.1     | ❌                |
 
 ## Reporting a Vulnerability
 
-Please report all security vulnerablitys in the issues section!
+Please report all security vulnerably in the issues section!
